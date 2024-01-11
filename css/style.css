@@ -319,7 +319,7 @@ button {
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 
 .head_top {
-     background: url(../images/banner1.png);
+     background: url(../images/banner12.png);
      background-size: 100% 100%;
      background-repeat: no-repeat;
      background-position: center;
@@ -469,7 +469,7 @@ ul.padding_left2 li img {padding: 0px 10px 0px 30px;}
 /** Testimonial section **/
 
 .Testimonial {
-     background: url(../images/test_bg.jpg);
+     background: url(../images/plan_bg.jpg);
      background-repeat: no-repeat;
     padding: 60px 0px;
      background-position: center;
